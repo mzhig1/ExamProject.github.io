@@ -14,10 +14,10 @@
 
 
 <h2>Intro to Javascript</h2>
-<h1>I have learned mnay things in javascript below there is a list.</h1> 
+<h3>I have learned many things in javascript below there is a list.</h3> 
 
 <ul>
-<li>Intro to programming</h1>
+<li>Intro to programming</li>
 <li>Drawing basics</li>
 <li>Coloring</li>
 <li>Variables</li>
