@@ -29,7 +29,7 @@
 <li>Logic and if Statements</li>
 <li>Debugging programs</li>
 <li>Looping</li>
-<li>Writing clean code</li>
+<li>Writing clean code</li>                   <img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.JPG">   
 <li>Arrays</li>
 <li>Objects</li>
 <li>Object-Oriented Design</li>
