@@ -1,7 +1,2 @@
-echo "# ExamProject.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/mzhig1/ExamProject.github.io.git
-git push -u origin master
-<em>Mike</em>
+echo "# Mike's Exam Portfolio" >> README.md
+
