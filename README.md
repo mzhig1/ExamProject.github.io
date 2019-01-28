@@ -14,32 +14,34 @@
 
 
 <h2>Intro to Javascript</h2>
-i have learned mnay things in javascript below there is a list.</h1> 
-<h1>Intro to programming</h1>
-<h1>Drawing basics</h1>
-<h1>Coloring</h1>
-<h1>Variables</h1>
-<h1>Animation basics</h1>
-<h1>Interactive programs</h1>
-<h1>Resizing with variables</h1>
-<h1>Text and strings</h1>
-<h1>Functions</h1>
-<h1>Logic and if Statements</h1>
-<h1>Debugging programs</h1>
-<h1>Looping</h1>
-<h1>Writing clean code</h1>
-<h1>Arrays</h1>
-<h1>Objects</h1>
-<h1>Object-Oriented Design</h1>
-<h1>Intro to Natural Simulations</h1>
-<h1>Randomness</h1>
-<h1>Noise</h1>
-<h1>Vectors</h1>
-<h1>Forces</h1>
-<h1>Angular Movement</h1>
-<h1>Oscillations</h1>
-<h1>Particle Systems</h1>
+<h1>I have learned mnay things in javascript below there is a list.</h1> 
 
+<ul>
+<li>Intro to programming</h1>
+<li>Drawing basics</li>
+<li>Coloring</li>
+<li>Variables</li>
+<li>Animation basics</li>
+<li>Interactive programs</li>
+<li>Resizing with variables</li>
+<li>Text and strings</li>
+<li>Functions</li>
+<li>Logic and if Statements</li>
+<li>Debugging programs</li>
+<li>Looping</li>
+<li>Writing clean code</li>
+<li>Arrays</li>
+<li>Objects</li>
+<li>Object-Oriented Design</li>
+<li>Intro to Natural Simulations</li>
+<li>Randomness</li>
+<li>Noise</li>
+<li>Vectors</li>
+<li>Forces</li>
+<li>Angular Movement</li>
+<li>Oscillations</li>
+<li>Particle Systems</li>
+</ul>
 
 
 <h2>Coding challenge </h2>
