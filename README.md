@@ -53,7 +53,9 @@
 
 
 <h2>Arduino Nano Board </h2>
-
+<p>
+we have learned how the Arduino Nano Board works from a computer engineer once a week my group got togther and coded and tryed to make 
+the bored do different functions. We got the board to blink a light which was proof that now it not just about a code on a screen , that now we could acctully code on a physical object was very cool and inaddtion we added a button to when the we hit the button the light turns on the light the Arduino Nano Board was very challanging but fun and worth it in the end.</p>
 
 
 
@@ -90,16 +92,24 @@ Sets
 
 <h2>previous experience<h2>
   <p>
-  over the years I have gather value exsperiance 
-  turing
-  making a gameing in adobe flash
-  javascipt
-  HTML/CSS
-  Markdown
+    
+  over the years I have gather valueble exsperiance from Mrs,Kerby and Mr,Osudar and got to learn many languages like
+  </p>
+  
+  <li>turing</li>
+ <li> adobe flash</li>
+  <li>javascipt</li>
+ <li> HTML/CSS</li>
+ <li> Markdown</li>
+  
+   
+   <p>
+  some of these languages like turing is useless but a good way to learn the basics of coding.Adobe flash was a fun but very crashable software that would crash constantly but nonetheless it was used in creating a game for an a elementery school.Javascript was used in 
+  understanding nature of code that would help me code more complex code in the future.Html/Css helped me make a cool website/blog like this one and markdown was used with html and is a very useful formating tool.
   </p>
   
 
-<h2>Github<h2>
+<h2>Github and Git-it workflow<h2>
 
 
 
