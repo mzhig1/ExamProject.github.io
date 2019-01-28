@@ -84,7 +84,7 @@ the bored do different functions. We got the board to blink a light which was pr
 
 
 
-<h2>Data </h2>
+<h2>Data Structures </h2>
 <p>Mr.Osudar has tought as about the importance of Data types and how they are used for exsample
 Lists 
 List (x,y) L=[n1,n2,n3…,ny] 
