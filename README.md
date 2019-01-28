@@ -13,8 +13,8 @@
 
 
 
-<h2>Intro to Javascript</h2>
-<h3>I have learned many things in javascript below there is a list.</h3> 
+<h2>Intro to JS: Drawing & Animation</h2>
+<h3>I have learned many things in javascript below there is a list of the things I have learned and achieved.</h3> 
 
 <ul>
 <li>Intro to programming</li>
@@ -43,6 +43,7 @@
 <li>Particle Systems</li>
 </ul>
 
+<p>My favourite assighment was a part of into to Javascript, the project was called "Project: Build-a-House" it was a fun project becasue I enjoy designing things.</p>
 
 <h2>Coding challenge </h2>
 
@@ -51,8 +52,6 @@
 <h2>Arduino Nano Board </h2>
 
 
-
-<h2>Intro to JS: Drawing & Animation</h2>
 
 
 
