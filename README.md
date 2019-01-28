@@ -29,7 +29,7 @@
 <li>Logic and if Statements</li>
 <li>Debugging programs</li>
 <li>Looping</li>
-<li>Writing clean code</li>                   <img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.JPG">   
+<li>Writing clean code</li>                    
 <li>Arrays</li>
 <li>Objects</li>
 <li>Object-Oriented Design</li>
@@ -44,6 +44,9 @@
 </ul>
 
 <p>My favourite assighment was a part of into to Javascript, the project was called "Project: Build-a-House" it was a fun project becasue I enjoy designing things.</p>
+
+
+<img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.JPG">  
 
 <h2>Coding challenge </h2>
 
