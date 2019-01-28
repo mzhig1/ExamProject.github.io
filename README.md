@@ -42,7 +42,7 @@
 
 <h2>Coding challenge </h2>
 <p>I have experience coding MineSweeper it was a summative project it was very fun to code and to learn how it was built and made teaching the class was a fun experience and showed a solid base in teaching and helping people learn how to code but also show room to grow my changes to the code weren't as big but still good in my opinion I changed the color and the amount of mines.</p>
-
+<img src="MikesPresTing.PNG">
 
 <h2>Arduino Nano Board </h2>
 <p>
