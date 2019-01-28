@@ -33,15 +33,6 @@
 <li>Arrays</li>
 <li>Objects</li>
 <li>Object-Oriented Design</li>
-<li>Intro to Natural Simulations</li>
-<li>Randomness</li>
-<li>Noise</li>
-<li>Vectors</li>
-<li>Forces</li>
-<li>Angular Movement</li>
-<li>Oscillations</li>
-<li>Particle Systems</li>
-</ul>
 
 <p>My favourite assighment was a part of into to Javascript, the project was called "Project: Build-a-House" it was a fun project becasue I enjoy designing things.</p>
 
@@ -61,10 +52,25 @@ the bored do different functions. We got the board to blink a light which was pr
 
 
 <h2>Intro to HTML/CSS: Making webpages </h2>
-
+<p>
+  I have learned how to code a websites how to add pictures,text and color.althought its not fully completed I have gotten the basic understanding and knowledge to code this blog showing that even thought I havn't done all the work I know enough to made a great blog like this one  </p>
 
 
 <h2>Advanced JS: Natural Simulations</h2>
+
+<p>
+ probably the hardest and most challanging thing I have done on khan academy the things listed blow is what we learned and the khowledge of theses conspepts would put me ahead due to there degree of difficulty and complexity but one of my favourite project was Project: Computational creatures it was the coolest thing I made in my opinion.</p>
+ <li>Intro to Natural Simulations</li>
+<li>Randomness</li>
+<li>Noise</li>
+<li>Vectors</li>
+<li>Forces</li>
+<li>Angular Movement</li>
+<li>Oscillations</li>
+<li>Particle Systems</li>
+</ul>
+
+
 
 
 
@@ -112,7 +118,7 @@ Sets
 
 <h2>Github and Git-it workflow</h2>
 
-
+<p>Github is a wonderful tool to helps with version control and source code and many other things like hosting a blog.It is used in multimillion and billion dollar businesses and I'm glade I have a good understand on how to navigate and use this great platform.Github has many pluging like Git-It flow that helped me recape the basics of github.</p>
 
 
 
