@@ -91,6 +91,7 @@ Sets
 
 
 <h2>previous experience<h2>
+  
   <p>
     
   over the years I have gather valueble exsperiance from Mrs,Kerby and Mr,Osudar and got to learn many languages like
@@ -109,7 +110,7 @@ Sets
   </p>
   
 
-<h2>Github and Git-it workflow<h2>
+<h2>Github and Git-it workflow</h2>
 
 
 
