@@ -36,6 +36,8 @@
 
 <p>My favourite assighment was a part of into to Javascript, the project was called "Project: Build-a-House" it was a fun project becasue I enjoy designing things.</p>
 
+<img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.PNG">
+
 
 
 <h2>Coding challenge </h2>
@@ -118,7 +120,6 @@ Sets
 <h2>Github and Git-it workflow</h2>
 
 <p>Github is a wonderful tool to helps with version control and source code and many other things like hosting a blog.It is used in multimillion and billion dollar businesses and I'm glade I have a good understand on how to navigate and use this great platform.Github has many pluging like Git-It flow that helped me recape the basics of github.</p>
-
 
 
 
