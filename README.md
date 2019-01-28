@@ -14,31 +14,31 @@
 
 
 <h2>Intro to Javascript</h2>
-i have learned mnay things in javascript below there is a list.</h1> & darr;
-& bull;<h1>Intro to programming</h1>
-& bull;<h1>Drawing basics</h1>
-& bull;<h1>Coloring</h1>
-& bull;<h1>Variables</h1>
-& bull;<h1>Animation basics</h1>
-& bull;<h1>Interactive programs</h1>
-& bull;<h1>Resizing with variables</h1>
-& bull;<h1>Text and strings</h1>
-& bull;<h1>Functions</h1>
-& bull;<h1>Logic and if Statements</h1>
-& bull;<h1>Debugging programs</h1>
-& bull;<h1>Looping</h1>
-& bull;<h1>Writing clean code</h1>
-& bull;<h1>Arrays</h1>
-& bull;<h1>Objects</h1>
-& bull;<h1>Object-Oriented Design</h1>
-& bull;<h1>Intro to Natural Simulations</h1>
-& bull;<h1>Randomness</h1>
-& bull;<h1>Noise</h1>
-& bull;<h1>Vectors</h1>
-& bull;<h1>Forces</h1>
-& bull;<h1>Angular Movement</h1>
-& bull;<h1>Oscillations</h1>
-& bull;<h1>Particle Systems</h1>
+i have learned mnay things in javascript below there is a list.</h1> 
+<h1>Intro to programming</h1>
+<h1>Drawing basics</h1>
+<h1>Coloring</h1>
+<h1>Variables</h1>
+<h1>Animation basics</h1>
+<h1>Interactive programs</h1>
+<h1>Resizing with variables</h1>
+<h1>Text and strings</h1>
+<h1>Functions</h1>
+<h1>Logic and if Statements</h1>
+<h1>Debugging programs</h1>
+<h1>Looping</h1>
+<h1>Writing clean code</h1>
+<h1>Arrays</h1>
+<h1>Objects</h1>
+<h1>Object-Oriented Design</h1>
+<h1>Intro to Natural Simulations</h1>
+<h1>Randomness</h1>
+<h1>Noise</h1>
+<h1>Vectors</h1>
+<h1>Forces</h1>
+<h1>Angular Movement</h1>
+<h1>Oscillations</h1>
+<h1>Particle Systems</h1>
 
 
 
