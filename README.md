@@ -56,6 +56,8 @@ the bored do different functions. We got the board to blink a light which was pr
 <p>
   I have learned how to code a websites how to add pictures,text and color.althought its not fully completed I have gotten the basic understanding and knowledge to code this blog showing that even thought I havn't done all the work I know enough to made a great blog like this one  </p>
 
+<img src="cat.PNG">
+
 
 <h2>Advanced JS: Natural Simulations</h2>
 
@@ -72,6 +74,7 @@ the bored do different functions. We got the board to blink a light which was pr
 </ul>
 
 
+<img src="dots.PNG">
 
 
 
