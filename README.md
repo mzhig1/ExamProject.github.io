@@ -90,7 +90,7 @@ Sets
 <p>In the future I hope to go to Uottawa or carlton univercity to become a computer software developer.I would  first like to get the khowledge from the greats like Daniel Shiffman,Elon Musk and other brilliant people using that information I would like to start up a tech compony that can inprove life of millions of people I have many ideas and It feels like they are limitless.</p>
 
 
-<h2>previous experience<h2>
+<h2>previous experience</h2>
   
   <p>
     
