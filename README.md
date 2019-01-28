@@ -36,7 +36,7 @@
 
 <p>My favourite assighment was a part of into to Javascript, the project was called "Project: Build-a-House" it was a fun project becasue I enjoy designing things.</p>
 
-<img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.PNG">
+  <img src="house.PNG">
 
 
 
