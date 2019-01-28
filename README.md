@@ -49,7 +49,7 @@
 <img src="https://github.com/mzhig1/Mike-s-Exam-Project/blob/master/house.JPG">
 
 <h2>Coding challenge </h2>
-
+<p>I have experience coding MineSweeper it was a summative project it was very fun to code and to learn how it was built and made teaching the class was a fun experience and showed a solid base in teaching and helping people learn how to code but also show room to grow my changes to the code weren't as big but still good in my opinion I changed the color and the amount of mines.</p>
 
 
 <h2>Arduino Nano Board </h2>
@@ -66,17 +66,40 @@
 
 
 
-<h2>Data types</h2>
+<h2>Data </h2>
+<p>Mr.Osudar has tought as about the importance of Data types and how they are used for exsample
+Lists 
+List (x,y) L=[n1,n2,n3…,ny] 
+
+Ordered sets
+oset(x,y)O={n1,n2,..ny} 
+
+Multi set  Mset(x,y)m=[n1 n2...ny]
+
+Sets 
+(x,y)s={n1 n2 ...ny}
+
+</p>
 
 
 
-<h2>summative assignment</h2>
 
-
-<h2>Future</h2>
+<h2>Future<h2>
 <p>In the future I hope to go to Uottawa or carlton univercity to become a computer software developer.I would  first like to get the khowledge from the greats like Daniel Shiffman,Elon Musk and other brilliant people using that information I would like to start up a tech compony that can inprove life of millions of people I have many ideas and It feels like they are limitless.</p>
 
 
+<h2>previous experience<h2>
+  <p>
+  over the years I have gather value exsperiance 
+  turing
+  making a gameing in adobe flash
+  javascipt
+  HTML/CSS
+  Markdown
+  </p>
+  
+
+<h2>Github<h2>
 
 
 
