@@ -40,8 +40,9 @@
 
 
 
-<h2>Coding challenge </h2>
-<p>I have experience coding MineSweeper it was a summative project it was very fun to code and to learn how it was built and made teaching the class was a fun experience and showed a solid base in teaching and helping people learn how to code but also show room to grow my changes to the code weren't as big but still good in my opinion I changed the color and the amount of mines.</p>
+<h2>Coding challenge  </h2>
+<p>
+  in the coding challenge we used object oriented code for the mines all and everthing is in the cell code of the summative we used an object instead of an action.I have experience coding MineSweeper it was a summative project it was very fun to code and to learn how it was built and made teaching the class was a fun experience and showed a solid base in teaching and helping people learn how to code but also show room to grow my changes to the code weren't as big but still good in my opinion I changed the color and the amount of mines.</p>
 
 
 <h2>Arduino Nano Board </h2>
@@ -54,7 +55,12 @@ the bored do different functions. We got the board to blink a light which was pr
 
 <h2>Intro to HTML/CSS: Making webpages </h2>
 <p>
-  I have learned how to code a websites how to add pictures,text and color.althought its not fully completed I have gotten the basic understanding and knowledge to code this blog showing that even thought I havn't done all the work I know enough to made a great blog like this one  </p>
+  I have learned how to code a websites how to add pictures,text and color.althought its not fully completed I have gotten the basic understanding and knowledge to code this blog showing that even thought I havn't done all the work I know enough to made a great blog 
+  like this one  </p>
+  
+  
+  
+  
 
 <img src="cat.PNG">
 
@@ -127,6 +133,9 @@ Sets
 
 
 
+<h2>Free Code Camp</h2>
+
+<p>Free Code camp is a non-profit that teaches millions of people how to code.This website helps you with the basics on HTML and HTML 5 and its basics like tags,h1,p and many more things to help you create a perfect website,althought I didn't finsh the whole thing I put a good dent into it. </p>
 
 
 
